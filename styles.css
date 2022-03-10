@@ -1,0 +1,81 @@
+body {
+  text-align: center;
+  background-color: #FFFCE4;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #EABE3F;
+  font-family: sans-serif;
+}
+
+.vini {
+  background-image:url('images/vini.png');
+}
+
+.benzema {
+  background-image:url('images/benzema.png');
+}
+
+.cristiano {
+  background-image:url('images/cristiano.jpg');
+}
+
+.florentino {
+  background-image:url('images/florentino.png');
+}
+
+.modric {
+  background-image:url('images/modric.png');
+}
+
+.sergio {
+  background-image:url('images/sergio.jpg');
+}
+
+.escudo {
+  background-image:url('images/escudo.jpg');
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #EABE3F;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 450px;
+  height: 450px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
